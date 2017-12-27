@@ -1,4 +1,3 @@
-# rjtmahinay.github.io
 
 # Description
 
