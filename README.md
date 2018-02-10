@@ -1,4 +1,5 @@
+# rjtmahinay.github.io
 
-# Description
+## Description
 
-Repository for my resume website.
+Repository for my downloadable resume/CV.
