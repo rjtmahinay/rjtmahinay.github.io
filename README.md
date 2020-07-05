@@ -1,5 +1,14 @@
-# rjtmahinay.github.io
+# Resume Website
 
 ## Description
 
-Repository for my downloadable resume/CV.
+Portfolio with downloadable resume.
+
+## Technologies
+* JavaScript
+* jQuery
+* Bootstrap
+* Custom CSS
+
+## Website
+[GitHub Page](https://rjtmahinay.github.io/)
